@@ -8,13 +8,13 @@ A React Native App with minimalistic UI design that tracks World Wide Data of th
 <img width="466" alt="Screenshot 2022-01-06 at 1 20 09 AM" src="https://user-images.githubusercontent.com/80217130/148280663-66c49199-afb1-479e-a446-b365bdba7e60.png">
 
 
-#APIs used: 
+# APIs used: 
 The project uses the trusted Disease.sh API
 LINK : https://disease.sh/
 
 A total of 3 API URLs are used to extract relevant data from the API depending upon user's choice of the country.
 
-#App Sections:
+# App Sections:
 Quarantime is broken into 4 major components: 
 
 1. Header - wtih the name of the APP 
@@ -36,21 +36,21 @@ Quarantime is broken into 4 major components:
 <img width="713" alt="Screenshot 2022-01-06 at 1 20 52 AM" src="https://user-images.githubusercontent.com/80217130/148282633-f3e599ea-ed9e-4948-a859-0a4396bcb0ee.png">
 
 
-#Quarantime Components: 
+# Quarantime Components: 
 Quarantime takes advantage of the componemt based approach of React/ React Native Apps by creating Components like the WorldWodeBadge Component(for the World Wide Details Section) and the ListItem Component(for the Country List Section).
 
-#Color Scheme used:
+# Color Scheme used:
 
 <img width="567" alt="Screenshot 2022-01-06 at 1 46 34 AM" src="https://user-images.githubusercontent.com/80217130/148283346-fceb70ce-3af0-4847-8ff8-c2e978dfb621.png">
 
 <img width="418" alt="Screenshot 2022-01-06 at 1 46 58 AM" src="https://user-images.githubusercontent.com/80217130/148283363-ccda2d37-e228-457a-a43a-f07ad1eef082.png">
 
-#Upcomming features: 
+# Upcomming features: 
 
 1. Quarantime is set to include interactive Line Charts to give a better visual understanding of the recent trends of total cases, recoveries etc
 2. A search field on top to let users search directly for a particular country instead of searching manuallu for it in the Country List section
 
-#How to use: 
+# How to use: 
 
 1. Downlaod the zip folder from the repo or clone the repo from your command line.
 2. run npm install to add all dependencies.
