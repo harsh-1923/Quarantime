@@ -52,7 +52,7 @@ Quarantime takes advantage of the componemt based approach of React/ React Nativ
 
 # How to use: 
 
-1. Downlaod the zip folder from the repo or clone the repo from your command line.
+1. Download the zip folder from the repo or clone the repo from your command line.
 2. run npm install to add all dependencies.
 3. expo start to start the simulator of your choice 
 ( If the build fails, close your server - expo start --clear - to clear the cache and restart the app )
